@@ -138,7 +138,7 @@
             "price": "0",
             "logo": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/icons/v2rayN.png",
             "description": "A Windows V2Ray client with GUI support.",
-            "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با از رابط کاربری ساده است.",
+            "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با یک رابط کاربری خوب است.",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
           }
         ]
