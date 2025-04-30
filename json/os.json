@@ -139,11 +139,12 @@
             "logo": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/icons/v2rayN.png",
             "description": "A Windows V2Ray client with good GUI.",
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با یک رابط کاربری خوب است.",
+            "configLink": "v2rayn://install-config?url={url}",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.12.0/v2rayN-windows-64-SelfContained.zip",
             "tutorialSteps": [
               {
                 "stepText": "Step 1: Download and install the Streisand app from the App Store.",
-                "faStepText": "مرحله ۱: آموزش کار با برنامه وی تو ری ان را با این لینک دانلود و تماشا کنید: https://github.com/JavadMoqaddam/public-assets/raw/refs/heads/main/tutorials/v2rayn/1.mp4.",
+                "faStepText": "مرحله ۱: آموزش کار با برنامه وی تو ری ان را با این لینک دانلود و تماشا کنید: .",
               }
             ]  
         }
