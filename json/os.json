@@ -139,13 +139,13 @@
             "logo": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/icons/v2rayN.png",
             "description": "A Windows V2Ray client with good GUI.",
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با یک رابط کاربری خوب است.",
-            "configLink": "v2rayn://install-config?url={url}",
+            "configLink": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayn/1.mp4",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.12.0/v2rayN-windows-64-SelfContained.zip",
             "tutorialSteps": [
               {
                 "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
                 "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
-                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
+                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayn/1.mp4"
               },
               {
                 "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
