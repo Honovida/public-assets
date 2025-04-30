@@ -143,21 +143,15 @@
             "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.12.0/v2rayN-windows-64-SelfContained.zip",
             "tutorialSteps": [
               {
-                "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
-                "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
-                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayn/1.mp4"
+                "stepText": "Step 1: Download the v2rayn with this link.",
+                "faStepText": "مرحله ۱: برنامه v2rayn .را با این لینک دانلود کنید.",
+                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayn/1.jpg"
               },
               {
                 "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
-              },
-              {
-                "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
-                "faStepText": "مرحله  ۳ : ابتدا کانفیگ مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
-                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
+                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید و ویدیو دانلود شده را تماشا کنید.",
+                "stepImage": "https://raw.githubusercontent.com/JavadMoqaddam/public-assets/refs/heads/main/tutorials/v2rayn/2.jpg"
               }
-            ]
         }
         ]
       }
